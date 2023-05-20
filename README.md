@@ -7,8 +7,7 @@
 1. Get user inputs as arguments
 2. Get the current system time
 3. Get the current system time as a string
-4. Print a number
-5. Print multiple numbers at different positions
-6. Print the date
-7. Assign a color to printed characters
-8. Error handling for the program
+4. Print the time
+5. Print the date
+6. Assign a color to printed characters
+7. Error handling for the program
