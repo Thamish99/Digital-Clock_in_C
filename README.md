@@ -12,6 +12,6 @@
 6. Assign a color to printed characters
 7. Error handling for the program
 
-![images](image1.png)
+![Alt text](relative%20images/image1.jpg?raw=true "Title")
 
 ![images](image2.png)
