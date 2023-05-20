@@ -12,6 +12,8 @@
 6. Assign a color to printed characters
 7. Error handling for the program
 
-![Alt text](/images/image1/png "Optional title")
+### Program output for: ./source_code
+![example](images/image1.png)
 
-![images](image2.png)
+### Program output for: ./source_code -c red
+![example](images/image2.png)
