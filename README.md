@@ -11,3 +11,7 @@
 5. Print the date
 6. Assign a color to printed characters
 7. Error handling for the program
+
+![images](image1.png)
+
+![images](image2.png)
